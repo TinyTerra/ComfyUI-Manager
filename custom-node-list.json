@@ -698,7 +698,7 @@
             "title": "ComfyUI_tinyterraNodes",
             "reference": "https://github.com/tinyterra/ComfyUI_tinyterraNodes",
             "files": [
-                "https://github.com/TinyTerra/ComfyUI_tinyterraNodes"
+                "https://github.com/tinyterra/ComfyUI_tinyterraNodes"
             ],
             "install_type": "git-clone",
             "nodename_pattern": "^ttN ",
